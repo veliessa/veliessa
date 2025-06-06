@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/veliessa/veliessa/main/banner.png" alt="VELIESSA — Crafted for the Rare" width="100%" />
+
 </p>
 
 <h1 align="center">
